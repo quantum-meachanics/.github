@@ -15,9 +15,9 @@ _다양한 짐을 보관할 수 있는 공간을 제공하고 이용하는 중�
  - 팀원 : 박하얀
 
 ## ⚙️ `개발 환경`
-- FRAMEWORK : SPRING, REACT
+- FRAMEWORK : SPRING , REACT
 - FRONTEND : Visual Studio Code
-- BACKEND : IntelliJ IDEA, MYSQL, SMTP GMAIL
+- BACKEND : IntelliJ IDEA, DB : MYSQL
 - LIBRARY : AWS S3, SMTP GMAIL, JPA HIBERNATE
 - CONFIGURATION MANAGEMENT : GITHUB, DISCORD
   
